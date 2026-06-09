@@ -23,7 +23,7 @@ def calcular_importe(cantidad, precio):
     cantidad = validar_cantidad(cantidad)
     precio = validar_precio(precio)
 
-    return cantidad * precio
+    return cantidad + precio
 
 
 def leer_compras(path):
