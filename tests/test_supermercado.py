@@ -20,7 +20,7 @@ def test_calcular_importe_correctamente():
     resultado = calcular_importe(cantidad, precio)
 
     # Assert
-    assert resultado == 30
+    assert resultado == 999
 
 
 def test_validar_cantidad_negativa_da_error():
