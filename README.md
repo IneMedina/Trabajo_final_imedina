@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 # Trabajo Final Imedina- Supermercado CI
-=======
+
 # Trabajo Final - Supermercado CI
->>>>>>> 109aa23 (estructura inicial del trabajo final)
+
 
 Este repositorio corresponde al trabajo práctico integrador de Git, GitHub, testing automatizado e integración continua.
 
